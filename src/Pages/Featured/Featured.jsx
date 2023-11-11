@@ -11,7 +11,7 @@ const Featured = () => {
                   </SectionTitle>
                   <div className="md:flex justify-center items-center pb-20 pt-12 px-36 ">
                         <div>
-                              <img className="px-10 " src={featuredImg} alt="" />
+                              <img className="md:px-10 " src={featuredImg} alt="" />
                         </div>
                         <div className="md:ml-6 text-[22px] space-y-1">
                               <p>Aug 20 , 2029</p>
